@@ -1,0 +1,20 @@
+.App {
+  width: 100%;
+  min-height: 100vh;
+  position: relative;
+  overflow: hidden;
+  display: flex;
+}
+
+.background {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: url(img/background.jpg) no-repeat center;
+  background-size: cover;
+  filter: grayscale(100);
+  z-index: -1;
+}
+
