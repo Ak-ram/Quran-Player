@@ -1,6 +1,6 @@
 .leftMenu {
   width: 280px;
-  height: 100%;
+  height: 100vh;
   min-height: 100vh;
   background: rgba(34, 34, 34, 0.6);
   backdrop-filter: blur(10px);
@@ -33,7 +33,7 @@
 }
 
 .searchBox {
-  width: 100%;
+  width: fit-content;
   height: 45px;
   position: relative;
   margin-top: 20px;
@@ -155,7 +155,7 @@
 }
 
 .playListContainer .playListScroll {
-  height: 140px;
+  height: 100px;
   overflow-x: hidden;
   overflow-y: scroll;
   position: relative;
@@ -165,7 +165,7 @@
   display: flex;
   align-items: center;
   color: #848484;
-  margin: 10px 0;
+  margin: 5px 0;
 }
 
 .playListContainer .playListScroll .playLists:hover {

@@ -1,16 +1,22 @@
 import React from "react";
 import "../styles/RightMenu.css";
-import { FaCrown, FaBell, FaRegHeart, FaSun, FaCogs } from "react-icons/fa";
+import { FaCrown, FaBell, FaRegHeart, FaSun } from "react-icons/fa";
+import { BsGrid1X2Fill } from "react-icons/bs";
 import Profile from "../img/profile.jpg";
 
 function RightMenu() {
+  const menuToggle = () => {
+    let leftMenu = document.querySelector(".leftMenu");
+    console.log(leftMenu.classList.toggle("menuToggle"));
+  };
+
   return (
-    <div className="rightContainer">
+    <div className="rightContainer menuToggle">
       <div className="goPro">
         <i>
           <FaCrown />
           <p>
-            <span> Go</span>Pro
+            <span>Go</span>Pro
           </p>
         </i>
 
@@ -26,8 +32,9 @@ function RightMenu() {
         <i>
           <FaSun />
         </i>
-        <i>
-          <FaCogs />
+        <i className="leftMenuToggler" onClick={menuToggle}>
+          {/* <FaCogs /> */}
+          <BsGrid1X2Fill />
         </i>
 
         <div className="profileImage">

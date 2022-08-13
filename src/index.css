@@ -18,18 +18,45 @@ code {
     monospace;
 }
 
-.spin{
-  transition: all .5s;
-  animation: spin .5s infinite linear;
+.spin {
+  transition: all 0.5s;
+  animation: spin 0.5s infinite linear;
   transform: rotate(0deg);
 }
-.spin-slow{
+
+.spin-slow {
   transition: all 2s;
   animation: spin 10s infinite linear;
   transform: rotate(0deg);
 }
+.close {
+  transition: all 0.1s;
+  transform: scale(0);
+  opacity: 0;
+}
+.menuToggle {
+  width: 0 !important;
+  min-width: 0 !important;
+  padding: 0 !important;
+  overflow: hidden;
+  transition: width 0.3s;
+}
+.component-switcher {
+  padding: 1rem;
+  max-height: inherit;
+  overflow: scroll;
+  flex-grow: 1;
+}
+.w-100{
+  width: 100% !important;
+  transition: all .3s;
+}
+
+.component-switcher > div{
+  height: 100%;
+}
 @keyframes spin {
-  100%{
+  100% {
     transform: rotate(360deg);
   }
 }
@@ -52,4 +79,31 @@ code {
 /* Handle on hover */
 ::-webkit-scrollbar-thumb:hover {
   background: rgb(179, 179, 179);
+}
+::-webkit-scrollbar-corner{
+  background: #151515;
+}
+
+.center-xy {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}
+.text-white {
+  color: #fff;
+}
+.highlight{
+  border-radius: 100%;
+  box-shadow: 0 0 0px 11px #e91e63, 0 0 0px 13px #e91e63;
+  background: #e91e63;
+  opacity: 0;
+  transition: all .3s;
+  animation: flash .7s infinite linear reverse;
+}
+
+@keyframes flash {
+  100%{
+    opacity: 1;
+  }
 }

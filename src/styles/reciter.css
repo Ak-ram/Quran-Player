@@ -1,0 +1,48 @@
+.reciter {
+  display: flex;
+  gap: 2rem;
+  flex-wrap: nowrap;
+  justify-content: center;
+  flex-direction: row-reverse;
+  max-height: 330px;
+  max-width: fit-content;
+}
+.reciter .reciter-image {
+  width: 25vw;
+  height: fit-content;
+  filter: drop-shadow(0px 0px 0.5rem white);
+}
+.reciter .reciter-info {
+  color: rgb(190, 190, 190);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  grid-gap: 1rem;
+  gap: 1rem;
+  max-width: 37vw;
+}
+.reciter .reciter-info h2 {
+  text-align: center;
+}
+.reciter .reciter-info p {
+  text-align: justify;
+  line-height: 1.5;
+  font-size: 1.1rem;
+}
+@media (max-width: 750px) {
+  .reciter {
+    flex-wrap: wrap;
+  }
+  .reciter .reciter-image {
+    width: 40vw;
+  }
+  .reciter .reciter-info {
+    max-width: 100%;
+  }
+  .reciter .reciter-info p {
+    line-height: 1.5;
+    font-size: 16px;
+    /* text-align: center; */
+  }
+}

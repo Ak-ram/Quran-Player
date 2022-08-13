@@ -1,20 +1,22 @@
 .introWrapper {
-    position: absolute;
-    width: 100vw;
-    height: 100vh;
-    background: #fff;
-    color: #000;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-direction: column;
-    z-index: 9999;
+  position: absolute;
+  width: 100vw;
+  height: 100vh;
+  background: #fff;
+  color: #000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  z-index: 9999;
   }
   .intro {
     background-image: url("https://t3.ftcdn.net/jpg/02/69/64/56/360_F_269645677_oAjFKkNrezyIeJ6TmawcwEmERIXlQgi5.jpg");
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center;
+    height: 50vh;
+    width: 100vw
   }
   h2.ayahText {
     margin-top: -30px;

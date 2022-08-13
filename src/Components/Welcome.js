@@ -1,6 +1,5 @@
 import React, { useRef, useState } from "react";
-import ReactPlayer from "react-player";
-import "../styles/Welcome.css"
+import "../styles/Welcome.css";
 const Welcome = () => {
   const player = useRef();
   const [loading, setLoading] = useState(true);
@@ -18,25 +17,27 @@ const Welcome = () => {
       setAyahAudio(delevered.data.audio);
       setAyahText(delevered.data.text);
     } catch (error) {
+
       console.log(error);
     }
   })();
 
+window.onclick = () => player.current.play();
+
   return (
     <>
       {loading ? (
-        
         <div className="introWrapper">
-           <ReactPlayer
-            className="intro"
+          <div className="intro">
+          <audio
             ref={player}
-            playing={true}
-            controls={false}
+            src={ayahAudio}
+            preload="metadata"
             onEnded={clearLoading}
-            url={ayahAudio}
-            width="100vw"
-          />  
+          />
+          </div>
           <h2 className="ayahText">{ayahText}</h2>
+          
         </div>
       ) : null}
     </>

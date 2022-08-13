@@ -8,7 +8,7 @@ function TrackList({ trackName, artistName }) {
   return (
     <div className="trackList">
       <div className="top">
-        <img src={Track} />
+        <img src={Track} alt="track_img"/>
         <p>
           {trackName} <span>{artistName}</span>
         </p>

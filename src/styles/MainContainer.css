@@ -13,13 +13,14 @@
 .Banner {
   height: 300px;
   position: relative;
+  background: #000
 }
 
 .Banner .bannerImg {
   position: absolute;
   top: 0;
   left: 0;
-  width: 100%;
+  width: 70%;
   height: 100%;
   object-fit: cover;
   filter: grayscale(100);
@@ -147,11 +148,13 @@
 .menuList ul {
   display: flex;
   align-items: center;
+  justify-content: space-between;
+  width: 100%;
 }
 
 .menuList ul li {
   list-style: none;
-  margin: 0 25px;
+  /* margin: 0 25px; */
   position: relative;
 }
 
@@ -199,7 +202,6 @@
 }
 
 .AudioList {
-  padding: 10px 30px;
   flex-grow: 1;
   display: flex;
   flex-direction: column;
@@ -212,17 +214,14 @@
 
 .AudioList .title span {
   margin-left: 5px;
-  color: #848484;
-  font-size: 14px;
+  color: #b9b9b9;
+  font-size: 11px;
   font-weight: 200;
 }
 
 .AudioList .songsContainer {
-    /* height: 220px; */
     flex-basis: 220px;
-    overflow-y: scroll;
-    box-shadow: inset -1rem 0 1rem #cdcdcd4f;
-    /* border-radius: 1rem; */
+    overflow: scroll;
     padding: 10px;
     margin: 10px 0;
     flex-grow: 1;
@@ -327,7 +326,15 @@
   transition: transform 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
 }
 
-@media screen and (max-width: 550px) {
+@media screen and (min-width: 550px) {
+  .menuList ul{
+    justify-content: center;
+  }
+    .menuList ul li{
+margin: 0 25px;
+  }
+}
+  @media screen and (max-width: 550px) {
   /* .mainContainer {
     min-width: 380px;
   } */
@@ -343,11 +350,6 @@
   .content .breadCrump i {
     font-size: 14px;
   }
-.content .artist {
-  flex-direction: column;
-  align-items: start;
-  gap: 1rem
-}
   .content .artist .left .name h2 {
     font-size: 25px;
   }
@@ -361,13 +363,13 @@
   flex-direction: column-reverse;
   gap: .4rem
 } */
-.menuList ul{
+/* .menuList ul{
   max-width: 100%;
   overflow-x: scroll;
-}
-  .menuList ul li {
+} */
+  /* .menuList ul li {
     margin: 0 5px;
-  }
+  } */
 
   .mainContainer .menuList ul li a {
     font-size: 14px;
@@ -389,9 +391,6 @@
   }
 
 
-  .AudioList {
-    padding: 10px 5px;
-  }
 
 
 
@@ -412,9 +411,20 @@
     gap: .4rem
   }
 }
-@media screen and (max-width: 950px) {
+@media screen and (max-width: 670px) {
+  .Banner .artist {
+    flex-direction: column;
+    align-items: start;
+    gap: 1rem;
+  }
+  .Banner .artist .right{
+    width: 100%;
+    justify-content: end;
+  }
+}
+/* @media screen and (max-width: 950px) {
   .Banner {
     height: 240px !important;
     position: relative;
   }
-}
+} */

@@ -1,0 +1,1205 @@
+{
+  "link": "http://myjson.dit.upm.es/api/bins/5vfg",
+  "data": {
+    "surahs": [
+      {
+        "number": "001",
+        "name": "سُورَةُ ٱلْفَاتِحَةِ",
+        "englishName": "Al-Faatiha",
+        "englishNameTranslation": "The Opening",
+        "revelationType": "Meccan",
+        "audio": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/001.mp3",
+        "favourite": false,
+        "numOfAyat": 7
+      },
+      {
+        "number": "002",
+        "name": "سُورَةُ البَقَرَةِ",
+        "englishName": "Al-Baqara",
+        "englishNameTranslation": "The Cow",
+        "revelationType": "Medinan",
+        "audio": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/002.mp3",
+        "favourite": false,
+        "numOfAyat": 286
+      },
+      {
+        "number": "003",
+        "name": "سُورَةُ آلِ عِمۡرَانَ",
+        "englishName": "Aal-i-Imraan",
+        "englishNameTranslation": "The Family of Imraan",
+        "revelationType": "Medinan",
+        "audio": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/003.mp3",
+        "favourite": false,
+        "numOfAyat": 200
+      },
+      {
+        "number": "004",
+        "name": "سُورَةُ النِّسَاءِ",
+        "englishName": "An-Nisaa",
+        "englishNameTranslation": "The Women",
+        "revelationType": "Medinan",
+        "audio": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/004.mp3",
+        "favourite": false,
+        "numOfAyat": 176
+      },
+      {
+        "number": "005",
+        "name": "سُورَةُ المَائـِدَةِ",
+        "englishName": "Al-Maaida",
+        "englishNameTranslation": "The Table",
+        "revelationType": "Medinan",
+        "audio": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/005.mp3",
+        "favourite": false,
+        "numOfAyat": 120
+      },
+      {
+        "number": "006",
+        "name": "سُورَةُ الأَنۡعَامِ",
+        "englishName": "Al-An'aam",
+        "englishNameTranslation": "The Cattle",
+        "revelationType": "Meccan",
+        "audio": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/006.mp3",
+        "favourite": false,
+        "numOfAyat": 165
+      },
+      {
+        "number": "007",
+        "name": "سُورَةُ الأَعۡرَافِ",
+        "englishName": "Al-A'raaf",
+        "englishNameTranslation": "The Heights",
+        "revelationType": "Meccan",
+        "audio": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/007.mp3",
+        "favourite": false,
+        "numOfAyat": 206
+      },
+      {
+        "number": "008",
+        "name": "سُورَةُ الأَنفَالِ",
+        "englishName": "Al-Anfaal",
+        "englishNameTranslation": "The Spoils of War",
+        "revelationType": "Medinan",
+        "audio": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/008.mp3",
+        "favourite": false,
+        "numOfAyat": 75
+      },
+      {
+        "number": "009",
+        "name": "سُورَةُ التَّوۡبَةِ",
+        "englishName": "At-Tawba",
+        "englishNameTranslation": "The Repentance",
+        "revelationType": "Medinan",
+        "audio": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/009.mp3",
+        "favourite": false,
+        "numOfAyat": 129
+      },
+      {
+        "number": "010",
+        "name": "سُورَةُ يُونُسَ",
+        "englishName": "Yunus",
+        "englishNameTranslation": "Jonas",
+        "revelationType": "Meccan",
+        "audio": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/010.mp3",
+        "favourite": false,
+        "numOfAyat": 109
+      },
+      {
+        "number": "011",
+        "name": "سُورَةُ هُودٍ",
+        "englishName": "Hud",
+        "englishNameTranslation": "Hud",
+        "revelationType": "Meccan",
+        "audio": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/011.mp3",
+        "favourite": false,
+        "numOfAyat": 123
+      },
+      {
+        "number": "012",
+        "name": "سُورَةُ يُوسُفَ",
+        "englishName": "Yusuf",
+        "englishNameTranslation": "Joseph",
+        "revelationType": "Meccan",
+        "audio": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/012.mp3",
+        "favourite": false,
+        "numOfAyat": 111
+      },
+      {
+        "number": "013",
+        "name": "سُورَةُ الرَّعۡدِ",
+        "englishName": "Ar-Ra'd",
+        "englishNameTranslation": "The Thunder",
+        "revelationType": "Medinan",
+        "audio": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/013.mp3",
+        "favourite": false,
+        "numOfAyat": 43
+      },
+      {
+        "number": "014",
+        "name": "سُورَةُ إِبۡرَاهِيمَ",
+        "englishName": "Ibrahim",
+        "englishNameTranslation": "Abraham",
+        "revelationType": "Meccan",
+        "audio": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/014.mp3",
+        "favourite": false,
+        "numOfAyat": 52
+      },
+      {
+        "number": "015",
+        "name": "سُورَةُ الحِجۡرِ",
+        "englishName": "Al-Hijr",
+        "englishNameTranslation": "The Rock",
+        "revelationType": "Meccan",
+        "audio": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/015.mp3",
+        "favourite": false,
+        "numOfAyat": 99
+      },
+      {
+        "number": "016",
+        "name": "سُورَةُ النَّحۡلِ",
+        "englishName": "An-Nahl",
+        "englishNameTranslation": "The Bee",
+        "revelationType": "Meccan",
+        "audio": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/016.mp3",
+        "favourite": false,
+        "numOfAyat": 128
+      },
+      {
+        "number": "017",
+        "name": "سُورَةُ الإِسۡرَاءِ",
+        "englishName": "Al-Israa",
+        "englishNameTranslation": "The Night Journey",
+        "revelationType": "Meccan",
+        "audio": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/017.mp3",
+        "favourite": false,
+        "numOfAyat": 111
+      },
+      {
+        "number": "018",
+        "name": "سُورَةُ الكَهۡفِ",
+        "englishName": "Al-Kahf",
+        "englishNameTranslation": "The Cave",
+        "revelationType": "Meccan",
+        "audio": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/018.mp3",
+        "favourite": false,
+        "numOfAyat": 110
+      },
+      {
+        "number": "019",
+        "name": "سُورَةُ مَرۡيَمَ",
+        "englishName": "Maryam",
+        "englishNameTranslation": "Mary",
+        "revelationType": "Meccan",
+        "audio": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/019.mp3",
+        "favourite": false,
+        "numOfAyat": 98
+      },
+      {
+        "number": "020",
+        "name": "سُورَةُ طه",
+        "englishName": "Taa-Haa",
+        "englishNameTranslation": "Taa-Haa",
+        "revelationType": "Meccan",
+        "audio": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/020.mp3",
+        "favourite": false,
+        "numOfAyat": 135
+      },
+      {
+        "number": "021",
+        "name": "سُورَةُ الأَنبِيَاءِ",
+        "englishName": "Al-Anbiyaa",
+        "englishNameTranslation": "The Prophets",
+        "revelationType": "Meccan",
+        "audio": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/021.mp3",
+        "favourite": false,
+        "numOfAyat": 112
+      },
+      {
+        "number": "022",
+        "name": "سُورَةُ الحَجِّ",
+        "englishName": "Al-Hajj",
+        "englishNameTranslation": "The Pilgrimage",
+        "revelationType": "Medinan",
+        "audio": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/022.mp3",
+        "favourite": false,
+        "numOfAyat": 78
+      },
+      {
+        "number": "023",
+        "name": "سُورَةُ المُؤۡمِنُونَ",
+        "englishName": "Al-Muminoon",
+        "englishNameTranslation": "The Believers",
+        "revelationType": "Meccan",
+        "audio": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/023.mp3",
+        "favourite": false,
+        "numOfAyat": 118
+      },
+      {
+        "number": "024",
+        "name": "سُورَةُ النُّورِ",
+        "englishName": "An-Noor",
+        "englishNameTranslation": "The Light",
+        "revelationType": "Medinan",
+        "audio": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/024.mp3",
+        "favourite": false,
+        "numOfAyat": 64
+      },
+      {
+        "number": "025",
+        "name": "سُورَةُ الفُرۡقَانِ",
+        "englishName": "Al-Furqaan",
+        "englishNameTranslation": "The Criterion",
+        "revelationType": "Meccan",
+        "audio": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/025.mp3",
+        "favourite": false,
+        "numOfAyat": 77
+      },
+      {
+        "number": "026",
+        "name": "سُورَةُ الشُّعَرَاءِ",
+        "englishName": "Ash-Shu'araa",
+        "englishNameTranslation": "The Poets",
+        "revelationType": "Meccan",
+        "audio": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/026.mp3",
+        "favourite": false,
+        "numOfAyat": 227
+      },
+      {
+        "number": "027",
+        "name": "سُورَةُ النَّمۡلِ",
+        "englishName": "An-Naml",
+        "englishNameTranslation": "The Ant",
+        "revelationType": "Meccan",
+        "audio": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/027.mp3",
+        "favourite": false,
+        "numOfAyat": 93
+      },
+      {
+        "number": "028",
+        "name": "سُورَةُ القَصَصِ",
+        "englishName": "Al-Qasas",
+        "englishNameTranslation": "The Stories",
+        "revelationType": "Meccan",
+        "audio": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/028.mp3",
+        "favourite": false,
+        "numOfAyat": 88
+      },
+      {
+        "number": "029",
+        "name": "سُورَةُ العَنكَبُوتِ",
+        "englishName": "Al-Ankaboot",
+        "englishNameTranslation": "The Spider",
+        "revelationType": "Meccan",
+        "audio": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/029.mp3",
+        "favourite": false,
+        "numOfAyat": 69
+      },
+      {
+        "number": "030",
+        "name": "سُورَةُ الرُّومِ",
+        "englishName": "Ar-Room",
+        "englishNameTranslation": "The Romans",
+        "revelationType": "Meccan",
+        "audio": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/030.mp3",
+        "favourite": false,
+        "numOfAyat": 50
+      },
+      {
+        "number": "031",
+        "name": "سُورَةُ لُقۡمَانَ",
+        "englishName": "Luqman",
+        "englishNameTranslation": "Luqman",
+        "revelationType": "Meccan",
+        "audio": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/031.mp3",
+        "favourite": false,
+        "numOfAyat": 34
+      },
+      {
+        "number": "032",
+        "name": "سُورَةُ السَّجۡدَةِ",
+        "englishName": "As-Sajda",
+        "englishNameTranslation": "The Prostration",
+        "revelationType": "Meccan",
+        "audio": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/032.mp3",
+        "favourite": false,
+        "numOfAyat": 30
+      },
+      {
+        "number": "033",
+        "name": "سُورَةُ الأَحۡزَابِ",
+        "englishName": "Al-Ahzaab",
+        "englishNameTranslation": "The Clans",
+        "revelationType": "Medinan",
+        "audio": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/033.mp3",
+        "favourite": false,
+        "numOfAyat": 73
+      },
+      {
+        "number": "034",
+        "name": "سُورَةُ سَبَإٍ",
+        "englishName": "Saba",
+        "englishNameTranslation": "Sheba",
+        "revelationType": "Meccan",
+        "audio": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/034.mp3",
+        "favourite": false,
+        "numOfAyat": 54
+      },
+      {
+        "number": "035",
+        "name": "سُورَةُ فَاطِرٍ",
+        "englishName": "Faatir",
+        "englishNameTranslation": "The Originator",
+        "revelationType": "Meccan",
+        "audio": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/035.mp3",
+        "favourite": false,
+        "numOfAyat": 45
+      },
+      {
+        "number": "036",
+        "name": "سُورَةُ يسٓ",
+        "englishName": "Yaseen",
+        "englishNameTranslation": "Yaseen",
+        "revelationType": "Meccan",
+        "audio": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/036.mp3",
+        "favourite": false,
+        "numOfAyat": 83
+      },
+      {
+        "number": "037",
+        "name": "سُورَةُ الصَّافَّاتِ",
+        "englishName": "As-Saaffaat",
+        "englishNameTranslation": "Those drawn up in Ranks",
+        "revelationType": "Meccan",
+        "audio": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/037.mp3",
+        "favourite": false,
+        "numOfAyat": 182
+      },
+      {
+        "number": "038",
+        "name": "سُورَةُ صٓ",
+        "englishName": "Saad",
+        "englishNameTranslation": "The letter Saad",
+        "revelationType": "Meccan",
+        "audio": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/038.mp3",
+        "favourite": false,
+        "numOfAyat": 88
+      },
+      {
+        "number": "039",
+        "name": "سُورَةُ الزُّمَرِ",
+        "englishName": "Az-Zumar",
+        "englishNameTranslation": "The Groups",
+        "revelationType": "Meccan",
+        "audio": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/039.mp3",
+        "favourite": false,
+        "numOfAyat": 75
+      },
+      {
+        "number": "040",
+        "name": "سُورَةُ غَافِرٍ",
+        "englishName": "Ghafir",
+        "englishNameTranslation": "The Forgiver",
+        "revelationType": "Meccan",
+        "audio": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/040.mp3",
+        "favourite": false,
+        "numOfAyat": 85
+      },
+      {
+        "number": "041",
+        "name": "سُورَةُ فُصِّلَتۡ",
+        "englishName": "Fussilat",
+        "englishNameTranslation": "Explained in detail",
+        "revelationType": "Meccan",
+        "audio": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/041.mp3",
+        "favourite": false,
+        "numOfAyat": 54
+      },
+      {
+        "number": "042",
+        "name": "سُورَةُ الشُّورَىٰ",
+        "englishName": "Ash-Shura",
+        "englishNameTranslation": "Consultation",
+        "revelationType": "Meccan",
+        "audio": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/042.mp3",
+        "favourite": false,
+        "numOfAyat": 53
+      },
+      {
+        "number": "043",
+        "name": "سُورَةُ الزُّخۡرُفِ",
+        "englishName": "Az-Zukhruf",
+        "englishNameTranslation": "Ornaments of gold",
+        "revelationType": "Meccan",
+        "audio": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/043.mp3",
+        "favourite": false,
+        "numOfAyat": 89
+      },
+      {
+        "number": "044",
+        "name": "سُورَةُ الدُّخَانِ",
+        "englishName": "Ad-Dukhaan",
+        "englishNameTranslation": "The Smoke",
+        "revelationType": "Meccan",
+        "audio": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/044.mp3",
+        "favourite": false,
+        "numOfAyat": 59
+      },
+      {
+        "number": "045",
+        "name": "سُورَةُ الجَاثِيَةِ",
+        "englishName": "Al-Jaathiya",
+        "englishNameTranslation": "Crouching",
+        "revelationType": "Meccan",
+        "audio": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/045.mp3",
+        "favourite": false,
+        "numOfAyat": 37
+      },
+      {
+        "number": "046",
+        "name": "سُورَةُ الأَحۡقَافِ",
+        "englishName": "Al-Ahqaf",
+        "englishNameTranslation": "The Dunes",
+        "revelationType": "Meccan",
+        "audio": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/046.mp3",
+        "favourite": false,
+        "numOfAyat": 35
+      },
+      {
+        "number": "047",
+        "name": "سُورَةُ مُحَمَّدٍ",
+        "englishName": "Muhammad",
+        "englishNameTranslation": "Muhammad",
+        "revelationType": "Medinan",
+        "audio": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/047.mp3",
+        "favourite": false,
+        "numOfAyat": 38
+      },
+      {
+        "number": "048",
+        "name": "سُورَةُ الفَتۡحِ",
+        "englishName": "Al-Fath",
+        "englishNameTranslation": "The Victory",
+        "revelationType": "Medinan",
+        "audio": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/048.mp3",
+        "favourite": false,
+        "numOfAyat": 29
+      },
+      {
+        "number": "049",
+        "name": "سُورَةُ الحُجُرَاتِ",
+        "englishName": "Al-Hujuraat",
+        "englishNameTranslation": "The Inner Apartments",
+        "revelationType": "Medinan",
+        "audio": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/049.mp3",
+        "favourite": false,
+        "numOfAyat": 18
+      },
+      {
+        "number": "050",
+        "name": "سُورَةُ قٓ",
+        "englishName": "Qaaf",
+        "englishNameTranslation": "The letter Qaaf",
+        "revelationType": "Meccan",
+        "audio": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/050.mp3",
+        "favourite": false,
+        "numOfAyat": 45
+      },
+      {
+        "number": "051",
+        "name": "سُورَةُ الذَّارِيَاتِ",
+        "englishName": "Adh-Dhaariyat",
+        "englishNameTranslation": "The Winnowing Winds",
+        "revelationType": "Meccan",
+        "audio": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/051.mp3",
+        "favourite": false,
+        "numOfAyat": 60
+      },
+      {
+        "number": "052",
+        "name": "سُورَةُ الطُّورِ",
+        "englishName": "At-Tur",
+        "englishNameTranslation": "The Mount",
+        "revelationType": "Meccan",
+        "audio": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/052.mp3",
+        "favourite": false,
+        "numOfAyat": 49
+      },
+      {
+        "number": "053",
+        "name": "سُورَةُ النَّجۡمِ",
+        "englishName": "An-Najm",
+        "englishNameTranslation": "The Star",
+        "revelationType": "Meccan",
+        "audio": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/053.mp3",
+        "favourite": false,
+        "numOfAyat": 286
+      },
+      {
+        "number": "054",
+        "name": "سُورَةُ القَمَرِ",
+        "englishName": "Al-Qamar",
+        "englishNameTranslation": "The Moon",
+        "revelationType": "Meccan",
+        "audio": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/054.mp3",
+        "favourite": false,
+        "numOfAyat": 286
+      },
+      {
+        "number": "055",
+        "name": "سُورَةُ الرَّحۡمَٰن",
+        "englishName": "Ar-Rahmaan",
+        "englishNameTranslation": "The Beneficent",
+        "revelationType": "Medinan",
+        "audio": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/055.mp3",
+        "favourite": false,
+        "numOfAyat": 286
+      },
+      {
+        "number": "056",
+        "name": "سُورَةُ الوَاقِعَةِ",
+        "englishName": "Al-Waaqia",
+        "englishNameTranslation": "The Inevitable",
+        "revelationType": "Meccan",
+        "audio": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/056.mp3",
+        "favourite": false,
+        "numOfAyat": 286
+      },
+      {
+        "number": "057",
+        "name": "سُورَةُ الحَدِيدِ",
+        "englishName": "Al-Hadid",
+        "englishNameTranslation": "The Iron",
+        "revelationType": "Medinan",
+        "audio": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/057.mp3",
+        "favourite": false,
+        "numOfAyat": 286
+      },
+      {
+        "number": "058",
+        "name": "سُورَةُ المُجَادلَةِ",
+        "englishName": "Al-Mujaadila",
+        "englishNameTranslation": "The Pleading Woman",
+        "revelationType": "Medinan",
+        "audio": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/058.mp3",
+        "favourite": false,
+        "numOfAyat": 286
+      },
+      {
+        "number": "059",
+        "name": "سُورَةُ الحَشۡرِ",
+        "englishName": "Al-Hashr",
+        "englishNameTranslation": "The Exile",
+        "revelationType": "Medinan",
+        "audio": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/059.mp3",
+        "favourite": false,
+        "numOfAyat": 286
+      },
+      {
+        "number": "060",
+        "name": "سُورَةُ المُمۡتَحنَةِ",
+        "englishName": "Al-Mumtahana",
+        "englishNameTranslation": "She that is to be examined",
+        "revelationType": "Medinan",
+        "audio": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/60.mp3",
+        "favourite": false,
+        "numOfAyat": 286
+      },
+      {
+        "number": "061",
+        "name": "سُورَةُ الصَّفِّ",
+        "englishName": "As-Saff",
+        "englishNameTranslation": "The Ranks",
+        "revelationType": "Medinan",
+        "audio": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/61.mp3",
+        "favourite": false,
+        "numOfAyat": 286
+      },
+      {
+        "number": "062",
+        "name": "سُورَةُ الجُمُعَةِ",
+        "englishName": "Al-Jumu'a",
+        "englishNameTranslation": "Friday",
+        "revelationType": "Medinan",
+        "audio": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/62.mp3",
+        "favourite": false,
+        "numOfAyat": 286
+      },
+      {
+        "number": "063",
+        "name": "سُورَةُ المُنَافِقُونَ",
+        "englishName": "Al-Munaafiqoon",
+        "englishNameTranslation": "The Hypocrites",
+        "revelationType": "Medinan",
+        "audio": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/63.mp3",
+        "favourite": false,
+        "numOfAyat": 286
+      },
+      {
+        "number": "064",
+        "name": "سُورَةُ التَّغَابُنِ",
+        "englishName": "At-Taghaabun",
+        "englishNameTranslation": "Mutual Disillusion",
+        "revelationType": "Medinan",
+        "audio": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/64.mp3",
+        "favourite": false,
+        "numOfAyat": 286
+      },
+      {
+        "number": "065",
+        "name": "سُورَةُ الطَّلَاقِ",
+        "englishName": "At-Talaaq",
+        "englishNameTranslation": "Divorce",
+        "revelationType": "Medinan",
+        "audio": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/65.mp3",
+        "favourite": false,
+        "numOfAyat": 286
+      },
+      {
+        "number": "066",
+        "name": "سُورَةُ التَّحۡرِيمِ",
+        "englishName": "At-Tahrim",
+        "englishNameTranslation": "The Prohibition",
+        "revelationType": "Medinan",
+        "audio": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/66.mp3",
+        "favourite": false,
+        "numOfAyat": 286
+      },
+      {
+        "number": "067",
+        "name": "سُورَةُ المُلۡكِ",
+        "englishName": "Al-Mulk",
+        "englishNameTranslation": "The Sovereignty",
+        "revelationType": "Meccan",
+        "audio": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/67.mp3",
+        "favourite": false,
+        "numOfAyat": 286
+      },
+      {
+        "number": "068",
+        "name": "سُورَةُ القَلَمِ",
+        "englishName": "Al-Qalam",
+        "englishNameTranslation": "The Pen",
+        "revelationType": "Meccan",
+        "audio": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/68.mp3",
+        "favourite": false,
+        "numOfAyat": 286
+      },
+      {
+        "number": "069",
+        "name": "سُورَةُ الحَاقَّةِ",
+        "englishName": "Al-Haaqqa",
+        "englishNameTranslation": "The Reality",
+        "revelationType": "Meccan",
+        "audio": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/69.mp3",
+        "favourite": false,
+        "numOfAyat": 286
+      },
+      {
+        "number": "070",
+        "name": "سُورَةُ المَعَارِجِ",
+        "englishName": "Al-Ma'aarij",
+        "englishNameTranslation": "The Ascending Stairways",
+        "revelationType": "Meccan",
+        "audio": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/70.mp3",
+        "favourite": false,
+        "numOfAyat": 286
+      },
+      {
+        "number": "071",
+        "name": "سُورَةُ نُوحٍ",
+        "englishName": "Nooh",
+        "englishNameTranslation": "Noah",
+        "revelationType": "Meccan",
+        "audio": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/71.mp3",
+        "favourite": false,
+        "numOfAyat": 286
+      },
+      {
+        "number": "072",
+        "name": "سُورَةُ الجِنِّ",
+        "englishName": "Al-Jinn",
+        "englishNameTranslation": "The Jinn",
+        "revelationType": "Meccan",
+        "audio": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/72.mp3",
+        "favourite": false,
+        "numOfAyat": 286
+      },
+      {
+        "number": "073",
+        "name": "سُورَةُ المُزَّمِّلِ",
+        "englishName": "Al-Muzzammil",
+        "englishNameTranslation": "The Enshrouded One",
+        "revelationType": "Meccan",
+        "audio": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/73.mp3",
+        "favourite": false,
+        "numOfAyat": 286
+      },
+      {
+        "number": "074",
+        "name": "سُورَةُ المُدَّثِّرِ",
+        "englishName": "Al-Muddaththir",
+        "englishNameTranslation": "The Cloaked One",
+        "revelationType": "Meccan",
+        "audio": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/74.mp3",
+        "favourite": false,
+        "numOfAyat": 286
+      },
+      {
+        "number": "075",
+        "name": "سُورَةُ القِيَامَةِ",
+        "englishName": "Al-Qiyaama",
+        "englishNameTranslation": "The Resurrection",
+        "revelationType": "Meccan",
+        "audio": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/75.mp3",
+        "favourite": false,
+        "numOfAyat": 286
+      },
+      {
+        "number": "076",
+        "name": "سُورَةُ الإِنسَانِ",
+        "englishName": "Al-Insaan",
+        "englishNameTranslation": "Man",
+        "revelationType": "Medinan",
+        "audio": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/76.mp3",
+        "favourite": false,
+        "numOfAyat": 286
+      },
+      {
+        "number": "077",
+        "name": "سُورَةُ المُرۡسَلَاتِ",
+        "englishName": "Al-Mursalaat",
+        "englishNameTranslation": "The Emissaries",
+        "revelationType": "Meccan",
+        "audio": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/77.mp3",
+        "favourite": false,
+        "numOfAyat": 286
+      },
+      {
+        "number": "078",
+        "name": "سُورَةُ النَّبَإِ",
+        "englishName": "An-Naba",
+        "englishNameTranslation": "The Announcement",
+        "revelationType": "Meccan",
+        "audio": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/78.mp3",
+        "favourite": false,
+        "numOfAyat": 286
+      },
+      {
+        "number": "079",
+        "name": "سُورَةُ النَّازِعَاتِ",
+        "englishName": "An-Naazi'aat",
+        "englishNameTranslation": "Those who drag forth",
+        "revelationType": "Meccan",
+        "audio": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/79.mp3",
+        "favourite": false,
+        "numOfAyat": 286
+      },
+      {
+        "number": "080",
+        "name": "سُورَةُ عَبَسَ",
+        "englishName": "Abasa",
+        "englishNameTranslation": "He frowned",
+        "revelationType": "Meccan",
+        "audio": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/80.mp3",
+        "favourite": false,
+        "numOfAyat": 286
+      },
+      {
+        "number": "081",
+        "name": "سُورَةُ التَّكۡوِيرِ",
+        "englishName": "At-Takwir",
+        "englishNameTranslation": "The Overthrowing",
+        "revelationType": "Meccan",
+        "audio": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/81.mp3",
+        "favourite": false,
+        "numOfAyat": 286
+      },
+      {
+        "number": "082",
+        "name": "سُورَةُ الانفِطَارِ",
+        "englishName": "Al-Infitaar",
+        "englishNameTranslation": "The Cleaving",
+        "revelationType": "Meccan",
+        "audio": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/82.mp3",
+        "favourite": false,
+        "numOfAyat": 286
+      },
+      {
+        "number": "083",
+        "name": "سُورَةُ المُطَفِّفِينَ",
+        "englishName": "Al-Mutaffifin",
+        "englishNameTranslation": "Defrauding",
+        "revelationType": "Meccan",
+        "audio": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/83.mp3",
+        "favourite": false,
+        "numOfAyat": 286
+      },
+      {
+        "number": "084",
+        "name": "سُورَةُ الانشِقَاقِ",
+        "englishName": "Al-Inshiqaaq",
+        "englishNameTranslation": "The Splitting Open",
+        "revelationType": "Meccan",
+        "audio": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/84.mp3",
+        "favourite": false,
+        "numOfAyat": 286
+      },
+      {
+        "number": "085",
+        "name": "سُورَةُ البُرُوجِ",
+        "englishName": "Al-Burooj",
+        "englishNameTranslation": "The Constellations",
+        "revelationType": "Meccan",
+        "audio": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/85.mp3",
+        "favourite": false,
+        "numOfAyat": 286
+      },
+      {
+        "number": "086",
+        "name": "سُورَةُ الطَّارِقِ",
+        "englishName": "At-Taariq",
+        "englishNameTranslation": "The Morning Star",
+        "revelationType": "Meccan",
+        "audio": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/86.mp3",
+        "favourite": false,
+        "numOfAyat": 286
+      },
+      {
+        "number": "087",
+        "name": "سُورَةُ الأَعۡلَىٰ",
+        "englishName": "Al-A'laa",
+        "englishNameTranslation": "The Most High",
+        "revelationType": "Meccan",
+        "audio": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/87.mp3",
+        "favourite": false,
+        "numOfAyat": 286
+      },
+      {
+        "number": "088",
+        "name": "سُورَةُ الغَاشِيَةِ",
+        "englishName": "Al-Ghaashiya",
+        "englishNameTranslation": "The Overwhelming",
+        "revelationType": "Meccan",
+        "audio": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/88.mp3",
+        "favourite": false,
+        "numOfAyat": 286
+      },
+      {
+        "number": "089",
+        "name": "سُورَةُ الفَجۡرِ",
+        "englishName": "Al-Fajr",
+        "englishNameTranslation": "The Dawn",
+        "revelationType": "Meccan",
+        "audio": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/89.mp3",
+        "favourite": false,
+        "numOfAyat": 286
+      },
+      {
+        "number": "090",
+        "name": "سُورَةُ البَلَدِ",
+        "englishName": "Al-Balad",
+        "englishNameTranslation": "The City",
+        "revelationType": "Meccan",
+        "audio": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/90.mp3",
+        "favourite": false,
+        "numOfAyat": 286
+      },
+      {
+        "number": "091",
+        "name": "سُورَةُ الشَّمۡسِ",
+        "englishName": "Ash-Shams",
+        "englishNameTranslation": "The Sun",
+        "revelationType": "Meccan",
+        "audio": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/91.mp3",
+        "favourite": false,
+        "numOfAyat": 286
+      },
+      {
+        "number": "092",
+        "name": "سُورَةُ اللَّيۡلِ",
+        "englishName": "Al-Lail",
+        "englishNameTranslation": "The Night",
+        "revelationType": "Meccan",
+        "audio": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/92.mp3",
+        "favourite": false,
+        "numOfAyat": 286
+      },
+      {
+        "number": "093",
+        "name": "سُورَةُ الضُّحَىٰ",
+        "englishName": "Ad-Dhuhaa",
+        "englishNameTranslation": "The Morning Hours",
+        "revelationType": "Meccan",
+        "audio": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/93.mp3",
+        "favourite": false,
+        "numOfAyat": 286
+      },
+      {
+        "number": "094",
+        "name": "سُورَةُ الشَّرۡحِ",
+        "englishName": "Ash-Sharh",
+        "englishNameTranslation": "The Consolation",
+        "revelationType": "Meccan",
+        "audio": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/94.mp3",
+        "favourite": false,
+        "numOfAyat": 286
+      },
+      {
+        "number": "095",
+        "name": "سُورَةُ التِّينِ",
+        "englishName": "At-Tin",
+        "englishNameTranslation": "The Fig",
+        "revelationType": "Meccan",
+        "audio": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/95.mp3",
+        "favourite": false,
+        "numOfAyat": 286
+      },
+      {
+        "number": "096",
+        "name": "سُورَةُ العَلَقِ",
+        "englishName": "Al-Alaq",
+        "englishNameTranslation": "The Clot",
+        "revelationType": "Meccan",
+        "audio": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/96.mp3",
+        "favourite": false,
+        "numOfAyat": 286
+      },
+      {
+        "number": "097",
+        "name": "سُورَةُ القَدۡرِ",
+        "englishName": "Al-Qadr",
+        "englishNameTranslation": "The Power, Fate",
+        "revelationType": "Meccan",
+        "audio": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/97.mp3",
+        "favourite": false,
+        "numOfAyat": 286
+      },
+      {
+        "number": "098",
+        "name": "سُورَةُ البَيِّنَةِ",
+        "englishName": "Al-Bayyina",
+        "englishNameTranslation": "The Evidence",
+        "revelationType": "Medinan",
+        "audio": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/98.mp3",
+        "favourite": false,
+        "numOfAyat": 286
+      },
+      {
+        "number": "099",
+        "name": "سُورَةُ الزَّلۡزَلَةِ",
+        "englishName": "Az-Zalzala",
+        "englishNameTranslation": "The Earthquake",
+        "revelationType": "Medinan",
+        "audio": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/99.mp3",
+        "favourite": false,
+        "numOfAyat": 286
+      },
+      {
+        "number": "100",
+        "name": "سُورَةُ العَادِيَاتِ",
+        "englishName": "Al-Aadiyaat",
+        "englishNameTranslation": "The Chargers",
+        "revelationType": "Meccan",
+        "audio": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/100.mp3",
+        "favourite": false,
+        "numOfAyat": 286
+      },
+      {
+        "number": "101",
+        "name": "سُورَةُ القَارِعَةِ",
+        "englishName": "Al-Qaari'a",
+        "englishNameTranslation": "The Calamity",
+        "revelationType": "Meccan",
+        "audio": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/101.mp3",
+        "favourite": false,
+        "numOfAyat": 286
+      },
+      {
+        "number": "102",
+        "name": "سُورَةُ التَّكَاثُرِ",
+        "englishName": "At-Takaathur",
+        "englishNameTranslation": "Competition",
+        "revelationType": "Meccan",
+        "audio": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/102.mp3",
+        "favourite": false,
+        "numOfAyat": 286
+      },
+      {
+        "number": "103",
+        "name": "سُورَةُ العَصۡرِ",
+        "englishName": "Al-Asr",
+        "englishNameTranslation": "The Declining Day, Epoch",
+        "revelationType": "Meccan",
+        "audio": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/103.mp3",
+        "favourite": false,
+        "numOfAyat": 286
+      },
+      {
+        "number": "104",
+        "name": "سُورَةُ الهُمَزَةِ",
+        "englishName": "Al-Humaza",
+        "englishNameTranslation": "The Traducer",
+        "revelationType": "Meccan",
+        "audio": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/104.mp3",
+        "favourite": false,
+        "numOfAyat": 286
+      },
+      {
+        "number": "105",
+        "name": "سُورَةُ الفِيلِ",
+        "englishName": "Al-Fil",
+        "englishNameTranslation": "The Elephant",
+        "revelationType": "Meccan",
+        "audio": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/105.mp3",
+        "favourite": false,
+        "numOfAyat": 286
+      },
+      {
+        "number": "106",
+        "name": "سُورَةُ قُرَيۡشٍ",
+        "englishName": "Quraish",
+        "englishNameTranslation": "Quraysh",
+        "revelationType": "Meccan",
+        "audio": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/106.mp3",
+        "favourite": false,
+        "numOfAyat": 286
+      },
+      {
+        "number": "107",
+        "name": "سُورَةُ المَاعُونِ",
+        "englishName": "Al-Maa'un",
+        "englishNameTranslation": "Almsgiving",
+        "revelationType": "Meccan",
+        "audio": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/107.mp3",
+        "favourite": false,
+        "numOfAyat": 286
+      },
+      {
+        "number": "108",
+        "name": "سُورَةُ الكَوۡثَرِ",
+        "englishName": "Al-Kawthar",
+        "englishNameTranslation": "Abundance",
+        "revelationType": "Meccan",
+        "audio": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/108.mp3",
+        "favourite": false,
+        "numOfAyat": 286
+      },
+      {
+        "number": "109",
+        "name": "سُورَةُ الكَافِرُونَ",
+        "englishName": "Al-Kaafiroon",
+        "englishNameTranslation": "The Disbelievers",
+        "revelationType": "Meccan",
+        "audio": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/109.mp3",
+        "favourite": false,
+        "numOfAyat": 286
+      },
+      {
+        "number": "110",
+        "name": "سُورَةُ النَّصۡرِ",
+        "englishName": "An-Nasr",
+        "englishNameTranslation": "Divine Support",
+        "revelationType": "Medinan",
+        "audio": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/110.mp3",
+        "favourite": false,
+        "numOfAyat": 286
+      },
+      {
+        "number": "111",
+        "name": "سُورَةُ المَسَدِ",
+        "englishName": "Al-Masad",
+        "englishNameTranslation": "The Palm Fibre",
+        "revelationType": "Meccan",
+        "audio": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/111.mp3",
+        "favourite": false,
+        "numOfAyat": 286
+      },
+      {
+        "number": "112",
+        "name": "سُورَةُ الإِخۡلَاصِ",
+        "englishName": "Al-Ikhlaas",
+        "englishNameTranslation": "Sincerity",
+        "revelationType": "Meccan",
+        "audio": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/112.mp3",
+        "favourite": false,
+        "numOfAyat": 286
+      },
+      {
+        "number": "113",
+        "name": "سُورَةُ الفَلَقِ",
+        "englishName": "Al-Falaq",
+        "englishNameTranslation": "The Dawn",
+        "revelationType": "Meccan",
+        "audio": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/113.mp3",
+        "favourite": false,
+        "numOfAyat": 286
+      },
+      {
+        "number": "114",
+        "name": "سُورَةُ النَّاسِ",
+        "englishName": "An-Naas",
+        "englishNameTranslation": "Mankind",
+        "revelationType": "Meccan",
+        "audio": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/114.mp3",
+        "favourite": false,
+        "numOfAyat": 286
+      }
+    ],
+    "edition": {
+      "identifier": "ar.alafasy",
+      "language": "ar",
+      "name": "مشاري العفاسي",
+      "englishName": "Alafasy",
+      "format": "audio",
+      "type": "versebyverse"
+    },
+    "reciter": {
+      "name": "مشاري بن راشد العفاسي",
+      "englishName": "Mishary Rashid Alafasy",
+      "image": "https://2.bp.blogspot.com/-RLU-DkUOWHA/ViKoDh2NjcI/AAAAAAAAFZY/hIybzxypiXQ/s1600/ALAFASY.png",
+      "info": "Mishari bin Rashed Alafasy (Arabic: مشاري بن راشد العفاسي) is a Kuwaiti qāriʾ (reciter of the Quran), imam, preacher, and nasheed artist.[1][2][3] He studied in the Islamic University of Madinah's College of Qur'an, specializing in the ten qira'at and tafsir.[4] Alafasy has released nasheed albums. He sings in Arabic, English, and French with only his voice, without any accompanying musical instruments."
+    },
+    "Remembers": {
+      "Day":{
+        "url": "https://th.bing.com/th/id/R.8e871b7f625a1c69816bcf0791725b6a?rik=2RherXPBqpv74Q&riu=http%3a%2f%2fclipart-library.com%2fimages_k%2ftransparent-sun-gif%2ftransparent-sun-gif-4.png&ehk=uvf4y9fclzrfXJE5%2bmYSQux6%2fGdKvzGKw%2bYWPfhSg6k%3d&risl=&pid=ImgRaw&r=0",
+        "content":  [
+          "أَصبَحْنا على فِطرةِ الإسلامِ، وكَلِمةِ الإخلاصِ، ودِينِ نَبيِّنا محمَّدٍ صلَّى اللهُ عليه وسلَّمَ، ومِلَّةِ أبِينا إبراهيمَ، حَنيفًا مُسلِمًا، وما كان مِنَ المُشرِكينَ",
+          "رضيتُ باللهِ ربًّا وبالإسلامِ دينًا وبمحمَّدٍ صلَّى اللهُ عليه وسلَّم نبيًّا",
+          "لا إلهَ إلَّا اللهُ وحدَه لا شريك له له المُلكُ وله الحمدُ وهو على كلِّ شيءٍ قديرٌ",
+          "(للهمَّ إني أسألُك علمًا نافعًا ورزقًا طيبًا وعملًا متقبلًا).",
+          "بسمِ اللَّهِ الَّذي لا يضرُّ معَ اسمِهِ شيءٌ ، في الأرضِ ، ولا في السَّماءِ ، وَهوَ السَّميعُ العليمُ",
+          "اللهمَّ بك أصبحنا وبك أمسينا وبك نحيا وبك نموتُ وإليك النُّشورُ",
+          "اللَّهُمَّ أنتَ ربِّي لا إلَهَ إلَّا أنتَ خلَقتَني وأَنا عبدُكَ وأَنا على عَهْدِكَ ووعدِكَ ما استطَعتُ أعوذُ بِكَ من شرِّ ما صنعتُ أبوءُ لَكَ بنعمتِكَ عليَّ وأبوءُ بذَنبي فاغفِر لي فإنَّهُ لا يغفرُ الذُّنوبَ إلَّا أنتَ",
+          "أصبَحْنا وأصبَح المُلْكُ للهِ والحمدُ للهِ أسأَلُكَ مِن خيرِ هذا اليومِ ومِن خيرِ ما فيه وخيرِ ما بعدَه وأعوذُ بكَ مِن الكسَلِ والهرَمِ وسوءِ العُمُرِ وفتنةِ الدَّجَّالِ وعذابِ القبرِ",
+          "يا حيُّ يا قيومُ برحمتك أستغيثُ ، و أَصلِحْ لي شأني كلَّه ، و لا تَكِلْني إلى نفسي طرفَةَ عَينٍ أبدًا",
+          "اللهمَّ إني أسألُك العفوَ والعافيةَ في الدنيا والآخرةِ اللهمَّ إني أسألُك العفوَ والعافيةَ في دِيني ودنيايَ وأهلي ومالي اللهمَّ استُرْ عوراتي وآمِنْ روعاتي واحفظني من بين يدي ومن خلفي وعن يميني وعن شمالي ومن فوقي وأعوذُ بك أن أُغْتَالَ من تحتي",
+          "حَسْبِيَ اللَّهُ لَا إِلَٰهَ إِلَّا هُوَ ۖ عَلَيْهِ تَوَكَّلْتُ ۖ وَهُوَ رَبُّ الْعَرْشِ الْعَظِيمِ",
+          "سُبْحَانَ اللهِ عَدَدَ خَلْقِهِ، سُبْحَانَ اللهِ رِضَا نَفْسِهِ، سُبْحَانَ اللهِ زِنَةَ عَرْشِهِ، سُبْحَانَ اللهِ مِدَادَ كَلِمَاتِهِ",
+          "اللهمَّ فاطرَ السمواتِ والأرضِ عالمَ الغيبِ والشهادةِ لا إلهَ إلَّا أنتَ ربَّ كلِّ شيءٍ ومَليكَه أعوذُ بك من شرِّ نفسي ومن شرِّ الشيطانِ وشرَكِه وأنْ أقترفَ على نفسي سوءًا أو أجرَّهُ إلى مسلمٍ",
+          "اللَّهُمَّ إنِّي أصبَحتُ أنِّي أُشهِدُك، وأُشهِدُ حَمَلةَ عَرشِكَ، ومَلائِكَتَك، وجميعَ خَلقِكَ: بأنَّك أنتَ اللهُ لا إلهَ إلَّا أنتَ، وَحْدَك لا شريكَ لكَ، وأنَّ مُحمَّدًا عبدُكَ ورسولُكَ",
+          "سبحان اللهِ والحمدُ للهِ ولا إلهَ إلَّا اللهُ واللهُ أكبرُ ولا حولَ ولا قوَّةَ إلَّا باللهِ العليِّ العظيمِ",
+          "سُبْحَانَ اللهِ وبِحَمْدِهِ",
+          "اللهمَّ عافني في بدَني اللهمَّ عافني في سمعي اللهمَّ عافني في بصري لا إلهَ إلا أنتَ، اللهمَّ إني أعوذُ بك من الكفرِ والفقرِ وأعوذُ بك من عذابِ القبرِ لا إلهَ إلا أنتَ"
+        ]
+      },      "night": {
+        "url": "https://th.bing.com/th/id/R.252a6c6bee19ce666f80416b70736d03?rik=eBWNLiU61UCjCw&riu=http%3a%2f%2fclipart-library.com%2fimages_k%2fcartoon-moon-transparent%2fcartoon-moon-transparent-7.png&ehk=I9gqTY8fGP71SML8vgGZWGHFQv1WvcGN2yaII5l9OrM%3d&risl=&pid=ImgRaw&r=0",
+        "content": [
+          "قراءة آية الكرسي: (اللَّهُ لَا إِلَٰهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ ۚ لَا تَأْخُذُهُ سِنَةٌ وَلَا نَوْمٌ ۚ لَّهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ ۗ مَن ذَا الَّذِي يَشْفَعُ عِندَهُ إِلَّا بِإِذْنِهِ ۚ يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ ۖ وَلَا يُحِيطُونَ بِشَيْءٍ مِّنْ عِلْمِهِ إِلَّا بِمَا شَاءَ ۚ وَسِعَ كُرْسِيُّهُ السَّمَاوَاتِ وَالْأَرْضَ ۖ وَلَا يَئُودُهُ حِفْظُهُمَا ۚ وَهُوَ الْعَلِيُّ الْعَظِيمُ).",
+          "(أمسَيْنا على فِطرةِ الإسلامِ وعلى كَلِمةِ الإخلاصِ وعلى دينِ نبيِّنا محمَّدٍ صلَّى اللهُ عليه وسلَّم وعلى مِلَّةِ أبينا إبراهيمَ حنيفًا مسلمًا وما كان مِنَ المشركينَ)",
+          "(رضيتُ باللهِ ربًّا وبالإسلامِ دينًا وبمحمَّدٍ صلَّى اللهُ عليه وسلَّم نبيًّا)",
+          "(اللهم بكَ أمْسَينَا ، وبكَ أصبحنا ، وبكَ نحيا ، وبكَ نموتُ ، وإليكَ المصيرُ)",
+          "(يا حيُّ يا قيومُ برحمتك أستغيثُ ، و أَصلِحْ لي شأني كلَّه ، و لا تَكِلْني إلى نفسي طرفَةَ عَينٍ أبدًا)",
+          "(اللَّهُمَّ أنتَ ربِّي لا إلَهَ إلَّا أنتَ خلَقتَني وأَنا عبدُكَ وأَنا على عَهْدِكَ ووعدِكَ ما استطَعتُ أعوذُ بِكَ من شرِّ ما صنعتُ أبوءُ لَكَ بنعمتِكَ عليَّ وأبوءُ بذَنبي فاغفِر لي فإنَّهُ لا يغفرُ الذُّنوبَ إلَّا أنتَ)",
+          "(اللهمَّ فاطرَ السمواتِ والأرضِ عالمَ الغيبِ والشهادةِ لا إلهَ إلَّا أنتَ ربَّ كلِّ شيءٍ ومَليكَه أعوذُ بك من شرِّ نفسي ومن شرِّ الشيطانِ وشرَكِه وأنْ أقترفَ على نفسي سوءًا أو أجرَّهُ إلى مسلمٍ)",
+          "(أَمْسَيْنَا وَأَمْسَى المُلْكُ لِلَّهِ وَالْحَمْدُ لِلَّهِ، لا إلَهَ إلَّا اللَّهُ وَحْدَهُ لا شَرِيكَ له، له المُلْكُ وَلَهُ الحَمْدُ وَهو علَى كُلِّ شيءٍ قَدِيرٌ، اللَّهُمَّ أَسْأَلُكَ خَيْرَ هذِه اللَّيْلَةِ، وَأَعُوذُ بكَ مِن شَرِّ هذِه اللَّيْلَةِ، وَشَرِّ ما بَعْدَهَا اللَّهُمَّ إنِّي أَعُوذُ بكَ مِنَ الكَسَلِ وَسُوءِ الكِبَرِ، اللَّهُمَّ إنِّي أَعُوذُ بكَ مِن عَذَابٍ في النَّارِ وَعَذَابٍ في القَبْرِ)",
+          "(اللهمَّ إني أسألُك العفوَ والعافيةَ في الدنيا والآخرةِ اللهمَّ إني أسألُك العفوَ والعافيةَ في دِيني ودنيايَ وأهلي ومالي اللهمَّ استُرْ عوراتي وآمِنْ روعاتي واحفظني من بين يدي ومن خلفي وعن يميني وعن شمالي ومن فوقي وأعوذُ بك أن أُغْتَالَ من تحتي)",
+          "(بسمِ اللَّهِ الَّذي لا يضرُّ معَ اسمِهِ شيءٌ ، في الأرضِ ، ولا في السَّماءِ ، وَهوَ السَّميعُ العليمُ)",
+          "(أعوذُ بكلماتِ اللهِ التَّامَّاتِ مِن شرِّ ما خلَق)",
+          "(اللَّهُمَّ عافِني في بَدَني، اللَّهُمَّ عافِني في سَمْعي، اللَّهُمَّ عافِني في بَصَري، لا إلهَ إلَّا أنتَ، اللَّهُمَّ إنِّي أعوذُ بكَ من الكُفرِ والفَقرِ، اللَّهُمَّ إنِّي أعوذُ بكَ من عَذابِ القَبرِ، لا إلهَ إلَّا أنتَ)",
+          "قراءة  سور: الإخلاص، والفلق، والناس. (ثلاث مرّات).",
+          "(حَسْبِيَ اللَّهُ لَا إِلَٰهَ إِلَّا هُوَ ۖ عَلَيْهِ تَوَكَّلْتُ ۖ وَهُوَ رَبُّ الْعَرْشِ الْعَظِيمِ)",
+          "(اللَّهُمَّ إنِّي أمسيتُ أُشهِدُك، وأُشهِدُ حَمَلةَ عَرشِكَ، ومَلائِكَتَك، وجميعَ خَلقِكَ: بأنَّك أنتَ اللهُ لا إلهَ إلَّا أنتَ، وَحْدَك لا شريكَ لكَ، وأنَّ مُحمَّدًا عبدُكَ ورسولُكَ)",
+          "(سبحان اللهِ والحمدُ للهِ ولا إلهَ إلَّا اللهُ واللهُ أكبرُ ولا حولَ ولا قوَّةَ إلَّا باللهِ العليِّ العظيمِ)"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+.remembrance {
+  direction: rtl;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  max-height: 330px;
+  max-width: fit-content;
+}
+.remembrance .remembrance-content {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+.remembrance .remembrance-content > span {
+  padding: 0.7rem;
+  background: #ffffff;
+  font-weight: bold;
+}
+.remembrance .remembrance-content > p {
+  padding: 1rem;
+  background: #303030a1;
+  color: #fff;
+  line-height: 1.5;
+  word-spacing: 5px;
+  /* border-radius: 0.2rem; */
+}

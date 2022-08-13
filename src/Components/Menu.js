@@ -23,7 +23,7 @@ function Menu({ title, listObject }) {
         {listObject &&
           listObject.map((li) => (
             <li key={li.id}>
-              <a href="#">
+              <a href="#s">
                 <i>{li.icon}</i>
                 <span> {li.name}</span>
               </a>

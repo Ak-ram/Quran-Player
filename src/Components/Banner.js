@@ -1,19 +1,42 @@
-import React from "react";
-import artist from "../img/artist.jpg";
+import React, { useState } from "react";
 import check from "../img/check.png";
-import { FaEllipsisH, FaHeadphones, FaCheck } from "react-icons/fa";
+import quran from "../img/quran.png";
+import { FaHeadphones, FaCheck } from "react-icons/fa";
+import { AiOutlineMenuUnfold, AiOutlineMenuFold } from "react-icons/ai";
 function Banner() {
+  const [isOpen, setToggle] = useState(true);
+  const toggleRightMenu = () => {
+    let rightMenu = document.querySelector(".rightContainer");
+    let leftMenuToggler = document.querySelector(".leftMenuToggler");
+    rightMenu.classList.toggle("menuToggle");
+    setToggle(!isOpen);
+    // eslint-disable-next-line no-unused-expressions
+    isOpen ? highlight(leftMenuToggler) : setToggle(false);
+  };
+  let highlight = (item) => {
+    // baby pyramid of doom is not harmful hahaha
+    setTimeout(() => {
+      item.classList.add("highlight");
+      setTimeout(() => {
+        item.classList.remove("highlight");
+      }, 1000);
+    }, 500);
+  };
   return (
     <div className="Banner">
-      <img src={'https://lh5.googleusercontent.com/proxy/1wKQktyPi-rVawVbnAxSXUcy9KE-SDBX3A8Z3rvrBn5fGb6ZAs7ZMCMT68Wb6NXwL95McaPrxFc2iNMC-asAXgGG2LtuvHUfVI94A7J9R4fJug=s0-d'} alt="" className="bannerImg" />
+      <img src={ quran } alt={"quran-banner"} className="bannerImg" />
 
       <div className="content">
         <div className="breadCrump">
           <p>
             Home <span>/Quran</span>
           </p>
-          <i onClick={()=> console.log('some boring time')}>
-            <FaEllipsisH />
+          <i className="rightMenuToggler" onClick={toggleRightMenu}>
+            {isOpen ? (
+              <AiOutlineMenuUnfold size={25} />
+            ) : (
+              <AiOutlineMenuFold size={25} />
+            )}
           </i>
         </div>
 
@@ -33,8 +56,8 @@ function Banner() {
           </div>
 
           <div className="right">
-            <a href="#"> Play</a>
-            <a href="#">
+            <a href="#d"> Play</a>
+            <a href="#d">
               <i>
                 <FaCheck />
               </i>

@@ -1,10 +1,18 @@
-import React, { useEffect } from "react";
+import React, { useEffect, useState } from "react";
 import "../styles/MainContainer.css";
 import { FaUsers } from "react-icons/fa";
-import { AudioList } from "./AudioList";
 import { Banner } from "./Banner";
+import ComponentSwitcher from "./ComponentSwitcher";
 
-function MainContainer() {
+function MainContainer({ appState }) {
+  const [menuList] = useState([
+    "Quran",
+    "Remembrance",
+    "Reciter",
+    "Fans",
+    "About",
+  ]);
+  const [currentPath, setCurrentPath] = useState(menuList[0]);
   useEffect(() => {
     const allLi = document.querySelector(".menuList").querySelectorAll("li");
 
@@ -22,23 +30,12 @@ function MainContainer() {
 
       <div className="menuList">
         <ul>
-          <li>
-            <a href="#">All</a>
-          </li>
-          <li>
-            <a href="#">Favourties</a>
-          </li>
-          <li>
-            <a href="#">Author</a>
-          </li>
-          <li>
-            <a href="#">Fans</a>
-          </li>
-          <li>
-            <a href="#">About</a>
-          </li>
+          {menuList.map((item, index) => (
+            <li key={String(index)} onClick={() => setCurrentPath(item)}>
+              <a href="#d">{item}</a>
+            </li>
+          ))}
         </ul>
-
         <p>
           <i>
             <FaUsers />
@@ -46,8 +43,14 @@ function MainContainer() {
           12.3M <span>Followers</span>
         </p>
       </div>
-
-      <AudioList />
+      {/*  Cool 😎 */}
+      <div className="component-switcher">
+        <ComponentSwitcher
+          currentPath={currentPath}
+          menuList={menuList}
+          appState={appState}
+        />
+      </div>
     </div>
   );
 }

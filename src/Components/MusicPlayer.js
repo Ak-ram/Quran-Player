@@ -13,7 +13,7 @@ import {
 } from "react-icons/fa";
 import { BsDownload } from "react-icons/bs";
 
-function MusicPlayer({ currentSong,songAudio, imgSrc, auto }) {
+function MusicPlayer({ currentSong,songAudio, imgSrc, auto,visibility }) {
   const [isLove, setLove] = useState(false);
   const [isPlaying, setPlay] = useState(false);
   //   duration state
@@ -85,9 +85,15 @@ function MusicPlayer({ currentSong,songAudio, imgSrc, auto }) {
   const changeSongLove = () => {
     setLove(!isLove);
   };
-
+const closeModal = (e)=>{
+  let modal = e.target.closest('.modal');
+  if(modal) return;
+  e.currentTarget.classList.add('close');
+  setPlay(!isPlaying)
+}
   return (
-    <div className="musicPlayer">
+    <div className={visibility ? 'musicPlayer':'musicPlayer close'} onClick={(e)=> closeModal(e)}>
+      <div className="modal">
       <div className="songImage">
         <img className={isPlaying ? 'spin-slow':''} src={imgSrc} alt="" />
       </div>
@@ -149,7 +155,7 @@ function MusicPlayer({ currentSong,songAudio, imgSrc, auto }) {
           </div>
         </div>
 
-        <div className="bottom">
+        <div className="middle">
           <div className="currentTime">{calculateTime(currentTime)}</div>
           <input
             type="range"
@@ -166,7 +172,8 @@ function MusicPlayer({ currentSong,songAudio, imgSrc, auto }) {
           </div>
           
         </div>
-        <div style={{color: "#ccc"}}>( {currentSong?.name} ) {currentSong?.englishName}</div>
+        <div className="bottom" style={{color: "#ccc"}}>( {currentSong?.name} ) {currentSong?.englishName}</div>
+      </div>
       </div>
     </div>
   );
